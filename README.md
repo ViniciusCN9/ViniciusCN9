@@ -1,9 +1,14 @@
-/play dangerzone
 ### Bem vindo!
     
-    :birthday: 22 Anos
-    :closed_book: Engenharia de Computação
-    :telescope: Entusiasta de astronomia
+ 🍰 22 Anos <br>
+ 💻 Engenharia de Computação <br>
+ 🔭 Entusiasta de astronomia <br>
+ <br>
+ 🔵 [LinkedIn](https://www.linkedin.com/in/vinicius-fernandes-175541230)
+ 
+  
+    
+   
     
 
 <!--
