@@ -2,7 +2,6 @@
     
  🍰 22 Anos <br>
  💻 Engenharia de Computação <br>
- 🔭 Entusiasta de astronomia <br>
  <br>
  🔵 [LinkedIn](https://www.linkedin.com/in/vinicius-fernandes-175541230)
  
