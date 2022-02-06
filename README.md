@@ -1,4 +1,10 @@
-### Hi there 👋
+/play dangerzone
+### Bem vindo!
+    
+    :birthday: 22 Anos
+    :closed_book: Engenharia de Computação
+    :telescope: Entusiasta de astronomia
+    
 
 <!--
 **ViniciusCN9/ViniciusCN9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
