@@ -1,6 +1,5 @@
 ### Bem vindo!
     
- 🍰 23 Anos <br>
  💻 Engenharia de Computação <br>
  <br>
  🔵 [LinkedIn](https://www.linkedin.com/in/vinicius-fernandes-175541230)
