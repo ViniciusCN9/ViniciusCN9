@@ -1,6 +1,6 @@
 ### Bem vindo!
     
- 💻 Engenharia de Computação <br>
+ 💻 Engenharia da Computação <br>
  <br>
  🔵 [LinkedIn](https://www.linkedin.com/in/vinicius-fernandes-175541230)
  
