@@ -1,6 +1,7 @@
 ### Bem vindo!
     
  💻 Engenharia da Computação <br>
+ ☕ Desenvolvedor Backend <br>
  <br>
  🔵 [LinkedIn](https://www.linkedin.com/in/vinicius-fernandes-175541230)
  
